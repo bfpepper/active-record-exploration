@@ -2,10 +2,10 @@
 
 Ben
 
-  * AR Method: 
-  * Description:
-  * Example:
-  * Anything else?:
+  * AR Method: #limit
+  * Description: limit the return of entries from a db. If you have 30 entries you can limit the return to, say, the first 6.
+  * Example: Client.limit(5)
+  * Anything else?: N/A
 
 Brendan
 
